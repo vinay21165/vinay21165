@@ -24,8 +24,6 @@ If you're looking for a motivated and reliable developer to join your team, I'd 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vinay21165&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
