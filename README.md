@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/vinay21165/Profile_Vinay/blob/main/banner.png?raw=true" />
+  <img src="https://github.com/vinay21165/Profile_Vinay/blob/main/banner%20(1).png?raw=true" />
 </div>
 
 ###
