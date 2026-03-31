@@ -122,7 +122,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Profile_vinay/Profile_vinay/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vinay21165/Profile_vinay/output/snake.svg" alt="Snake animation" />
 
 ###
 
