@@ -34,7 +34,23 @@
 
 ###
 
-<p align="left">Hello, my name is Vinay Yadav. I am a Full Stack Developer specializing in Java technologies. I’m passionate about building scalable, secure, and high-performance web applications using modern backend and frontend tools. On the backend, I work with Java, Spring Framework(Spring Boot, Spring MVC,Spring dataJPA ,Spring Security) Hibernate/JPA, and RESTful APIs to build robust server-side applications and microservices. I focus on writing clean, efficient, and maintainable code while ensuring strong application security and performance. On the frontend, I have solid experience with HTML, CSS, JavaScript, and React, enabling me to build responsive, interactive, and user-friendly web interfaces. I ensure smooth communication between the frontend and backend through well-structured APIs.<br><br>I am actively seeking internship and job opportunities where I can apply my Java full-stack skills to real-world projects. I am a quick learner with a strong work ethic, and I enjoy collaborating with teams to deliver high-quality software solutions. I am excited to grow as a developer, take on new challenges, and contribute effectively to impactful projects.<br><br>If you're looking for a dedicated and hardworking developer to join your team, please feel free to contact me!<br><br>📫 Get in Touch Gmail → yadavvinay1804@gmail.com<br><br>If you're looking for a motivated and reliable developer to join your team, I'd love to connect!</p>
+<p align="left">
+Hello, I'm <b>Vinay Yadav</b>, a Full Stack Developer specializing in <b>Java technologies</b>.
+
+I build scalable, secure, and high-performance web applications using modern backend and frontend tools.
+
+💻 <b>Backend:</b> Java, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Hibernate, REST APIs  
+🎨 <b>Frontend:</b> HTML, CSS, JavaScript, React  
+
+I focus on writing clean, maintainable code while ensuring strong performance and security. I enjoy building end-to-end applications and creating seamless communication between frontend and backend systems.
+
+🚀 Currently seeking <b>internship and job opportunities</b> where I can apply my full-stack skills to real-world projects.
+
+📫 <b>Get in Touch:</b> 
+<a href="mailto:yadavvinay1804@gmail.com">yadavvinay1804@gmail.com</a>
+
+Let's connect and build something impactful!
+</p>
 
 ###
 
@@ -110,6 +126,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse logo" />
 </div>
 
 ###
